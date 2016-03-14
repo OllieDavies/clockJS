@@ -7,3 +7,6 @@ A lightweight JavaScript plugin for generating and animating a nice &amp; clean 
 <li>Create new JavaScript object<code>var c = new clockJS({id: "clock-container"});</code></li>
 <li>Enjoy!</li>
 </ol>
+
+### Demo
+You can find a demo of clockJS [here](http://olliedavies.co.uk/clock/).
